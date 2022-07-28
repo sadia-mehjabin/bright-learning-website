@@ -7,3 +7,6 @@
 .brightness{
     filter: brightness(50%);
 }
+.modal-section{
+    height: 17em;
+}
