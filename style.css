@@ -3,7 +3,7 @@
 }
 .h1-size{
     font-size: 4em;
-    background-image: url(images/cover/cover-1.png);
+    /* align-items: center; */
 }
 /* .carousel-caption{
     margin: 0;
