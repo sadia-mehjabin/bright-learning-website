@@ -3,12 +3,7 @@
 }
 .h1-size{
     font-size: 4em;
-    /* align-items: center; */
 }
-/* .carousel-caption{
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-    padding: 0;
-    
-} */
+.brightness{
+    filter: brightness(50%);
+}
